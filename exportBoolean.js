@@ -1,2 +1,1 @@
-const booleanValue = true
-module.export = booleanValue
+module.export = true
